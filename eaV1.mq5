@@ -21,9 +21,9 @@
 //|     is calculated so that a stop-out loses a fixed percentage of |
 //|     the account balance.                                          |
 //+------------------------------------------------------------------+
-#property copyright "Arthur"
+#property copyright "Arthur rak torfan t sud nai lok"
 #property link      ""
-#property version   "1.00"
+#property version   "1.02"
 #property strict
 
 #include <Trade\Trade.mqh>
@@ -112,7 +112,7 @@ int OnInit()
    //--- Step 6: initialize the "last processed bar" tracker to zero, so the very first tick is always evaluated
    ExtLastProcessedBarTime = 0;
 
-   Print("TrendFollowingBreakoutEA initialized successfully on symbol ", _Symbol, ", timeframe ", EnumToString(PERIOD_CURRENT));
+   Print("rak tofran:");
    return(INIT_SUCCEEDED);
   }
 
