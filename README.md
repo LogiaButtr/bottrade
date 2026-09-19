@@ -11,6 +11,7 @@
 <img width="1085" height="462" alt="Screenshot 2026-09-19 at 22 51 26" src="https://github.com/user-attachments/assets/e88c669c-2483-4339-a472-fa79e72390ff" />
 
 **monte carlo**
+รันกราฟสุ่มตัวแปรเดียวกัน วัดความน่าเชื่อถือ backtest
 <img width="694" height="790" alt="image" src="https://github.com/user-attachments/assets/d77e8c68-4f25-45cb-9cfe-71a236247c6f" />
 
 
